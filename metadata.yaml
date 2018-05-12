@@ -1,0 +1,37 @@
+_repo: The-Time-Traders_19145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - Norton, Andre Alice
+    - Norton, Alice Mary
+    - North, Andrew
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: In two related adventures, Travis Fox and Ross Murdock are stranded on
+  two separate planets where they discover that the fate of those worlds, and possibly
+  the galaxy itself, will be determined by their actions.
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2006-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Time travel -- Fiction'
+title: The Time Traders
+url: http://www.gutenberg.org/ebooks/19145
